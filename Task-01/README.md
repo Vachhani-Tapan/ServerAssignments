@@ -21,13 +21,13 @@ No external database is used. All data is stored inside the project.
 🚀 Live Deployment
 
 🔗 Render Deployment:
-https://student-cgpa-api.onrender.com
+https://serverassignments-1.onrender.com/
 
 🔗 Postman API Documentation:
-https://documenter.getpostman.com/view/xxxxxx
+https://documenter.getpostman.com/view/50841045/2sBXcGCeEC
 
 🔗 GitHub Repository:
-https://github.com/username/student-cgpa-api
+https://github.com/Vachhani-Tapan/ServerAssignments/tree/main/Task-01
 
 🛠️ Tech Stack
 
