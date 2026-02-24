@@ -156,7 +156,7 @@ Status Code: 200
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/username/student-cgpa-api.git
+git clone https://github.com/Vachhani-Tapan/ServerAssignments/tree/main/Task-01
 cd student-cgpa-api
 2️⃣ Install Dependencies
 npm install
@@ -169,7 +169,7 @@ npm run dev
 
 Server runs on:
 
-http://localhost:3000
+https://serverassignments-1.onrender.com/
 🌍 Deployment (Render)
 
 The API is deployed on Render and publicly accessible.
@@ -196,7 +196,7 @@ Expected status codes
 Proper API descriptions
 
 🔗 Public Documentation Link:
-https://documenter.getpostman.com/view/xxxxxx
+https://documenter.getpostman.com/view/50841045/2sBXcGCeEC
 
 ✅ HTTP Status Codes Used
 Status Code	Meaning
