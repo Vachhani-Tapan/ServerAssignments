@@ -7,13 +7,13 @@ All data is stored in an in-memory JSON array (No database used).
 🚀 Live Links
 
 🔗 GitHub Repository:
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+https://github.com/Vachhani-Tapan/ServerAssignments/tree/main/Task-02
 
 🌐 Render Deployment:
-https://YOUR_RENDER_LINK.onrender.com
+https://serverassignments-2.onrender.com/
 
 📬 Postman Documentation:
-https://documenter.getpostman.com/view/YOUR_POSTMAN_LINK
+https://documenter.getpostman.com/view/50841045/2sBXcGCeEC
 
 📌 Objective
 
@@ -196,7 +196,7 @@ Status: 404 Not Found
 
 ⚙️ How to Run Locally
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Vachhani-Tapan/ServerAssignments/tree/main/Task-02
 2️⃣ Install dependencies
 npm install
 3️⃣ Start server
@@ -222,7 +222,7 @@ Proper status codes
 Body examples
 
 👉 View here:
-https://documenter.getpostman.com/view/YOUR_POSTMAN_LINK
+https://documenter.getpostman.com/view/50841045/2sBXcGCeEC
 
 🌍 Deployment
 
@@ -230,7 +230,7 @@ This API is deployed on Render.
 
 👉 Live API Base URL:
 
-https://YOUR_RENDER_LINK.onrender.com
+https://serverassignments-2.onrender.com/
 
 All routes are publicly accessible.
 
