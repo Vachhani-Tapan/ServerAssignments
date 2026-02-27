@@ -21,17 +21,17 @@ No external validation libraries.
 🚀 Live Deployment
 
 🔗 Render Deployment Link
-https://your-render-link.onrender.com
+https://serverassignments-3.onrender.com/
 
 📂 GitHub Repository
 
 🔗 GitHub Repo Link
-https://github.com/your-username/state-statistics-api
+https://github.com/Vachhani-Tapan/ServerAssignments/tree/main/Task-03
 
 📬 Postman API Documentation
 
 🔗 Postman Documentation Link
-https://documenter.getpostman.com/view/your-doc-id
+https://documenter.getpostman.com/view/50841045/2sBXcGCeEC
 
 Includes:
 
@@ -87,7 +87,7 @@ Each state follows this structure:
 
 Base URL:
 
-https://your-render-link.onrender.com
+https://serverassignments-3.onrender.com/
 ✅ A. GET Routes
 1️⃣ GET /states
 
@@ -190,7 +190,7 @@ Returns:
 
 Clone the repository:
 
-git clone https://github.com/your-username/state-statistics-api.git
+git clone https://github.com/Vachhani-Tapan/ServerAssignments/tree/main/Task-03
 
 Navigate to project folder:
 
@@ -206,7 +206,7 @@ node index.js
 
 Server runs on:
 
-http://localhost:3000
+https://serverassignments-3.onrender.com/
 📌 Status Codes Used
 
 200 → Success
